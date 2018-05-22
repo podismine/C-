@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\workplace\c++\第四章表达式\第四章表达式\main.cpp(9): warning C4390: “;”: 找到空的受控语句；这是否是有意的?
+e:\workplace\c++\第四章表达式\第四章表达式\main.cpp(11): warning C4101: “ptr”: 未引用的局部变量
+  第四章表达式.vcxproj -> E:\Workplace\c++\第四章表达式\Debug\第四章表达式.exe
+  第四章表达式.vcxproj -> E:\Workplace\c++\第四章表达式\Debug\第四章表达式.pdb (Full PDB)

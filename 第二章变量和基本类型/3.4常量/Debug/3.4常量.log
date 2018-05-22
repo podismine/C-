@@ -1,0 +1,4 @@
+﻿  main.cpp
+e:\workplace\c++\第二章变量和基本类型\3.4常量\main.cpp(32): warning C4101: “p”: 未引用的局部变量
+  3.4常量.vcxproj -> E:\Workplace\c++\第二章变量和基本类型\Debug\2.4常量.exe
+  3.4常量.vcxproj -> E:\Workplace\c++\第二章变量和基本类型\Debug\2.4常量.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (第六章函数.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+e:\workplace\c++\第六章函数\第六章函数\main.cpp(9): warning C4018: “<”: 有符号/无符号不匹配
+e:\workplace\c++\第六章函数\第六章函数\main.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+e:\workplace\c++\第六章函数\第六章函数\main.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+e:\workplace\c++\第六章函数\第六章函数\main.cpp(109): warning C4018: “<”: 有符号/无符号不匹配
+  第六章函数.vcxproj -> E:\Workplace\c++\第六章函数\Debug\6.2参数传递.exe
+  第六章函数.vcxproj -> E:\Workplace\c++\第六章函数\Debug\6.2参数传递.pdb (Full PDB)

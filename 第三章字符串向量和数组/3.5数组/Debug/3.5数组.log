@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\workplace\c++\第三章字符串向量和数组\3.5数组\main.cpp(13): warning C4101: “ia”: 未引用的局部变量
+e:\workplace\c++\第三章字符串向量和数组\3.5数组\main.cpp(19): warning C4101: “isa”: 未引用的局部变量
+  3.5数组.vcxproj -> E:\Workplace\c++\第三章字符串向量和数组\Debug\3.5数组.exe
+  3.5数组.vcxproj -> E:\Workplace\c++\第三章字符串向量和数组\Debug\3.5数组.pdb (Full PDB)
